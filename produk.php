@@ -38,7 +38,7 @@ var_dump($Produk2);
 
 
 
-echo "new ni"
+echo "new ni" . $Prodduk1->getLabel();
 
 echo "komik : " . $Produk1->getLabel();
 echo "<br>";
